@@ -2,7 +2,7 @@
 
 A web application that features a 3D animated book slider using Three.js and React. Tailwind CSS is used for styling. This interactive website allows users to navigate through a book by clicking on its pages, experiencing smooth 3D animations and effects.
 
-You can access the live demo of the 3D book slider application [here](https://65c8c16751792f1b5bfbd80b--verdant-mochi-7024db.netlify.app/).
+You can access the live demo of the 3D book slider application [here](https://three-js-book-slider.vercel.app/).
 
 ![Photo1](assets/bs1.png)
 ![Photo2](assets/bs2.png)
